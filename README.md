@@ -1,8 +1,5 @@
 # Exercise3 Inditex  #
 
-Steps to follow to have k6 environment set up and running tests
-
-
 ## Getting Started ##
 0.  Prerequisites
 1.	Installation process
