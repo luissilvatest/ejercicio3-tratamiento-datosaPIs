@@ -1,0 +1,13 @@
+{
+    "create":
+    {
+        "id": 0,
+        "username": "goldoFunky",
+        "firstName": "Capitole",
+        "lastName": "Consulting",
+        "email": "aba@capitole.com",
+        "password": "capitole",
+        "phone": "+584242493314",
+        "userStatus": 0
+    }
+  }
